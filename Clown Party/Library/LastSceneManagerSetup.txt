@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/dinning room.unity
+  isLoaded: 1
+  isActive: 1
